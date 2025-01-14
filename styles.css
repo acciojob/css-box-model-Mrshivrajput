@@ -1,2 +1,20 @@
 
+#box4{
+  width: 300px;
+  background-color: lightblue;
+  border: 15px solid blue;
+  padding: 50px;
+  margin: 20px;
+  text-align: center;
+  font-size: 20px;
+  font-family: Arial;
+  color: rgb(40, 44, 89);
+}
+p{
+  padding: 15px;
+  font-size: 20px;
+  font-family: Arial;
+  color: rgb(40, 44, 89);
+  border: 2px solid blue;
+}
 /* Your CSS Code here. */
